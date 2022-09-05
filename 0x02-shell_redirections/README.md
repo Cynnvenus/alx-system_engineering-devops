@@ -1,1 +1,1 @@
-A script that reads Hello world
+A script that displays contents of a file
