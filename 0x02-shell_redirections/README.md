@@ -1,1 +1,1 @@
-displays the content of two files
+a script that displays all users and their home directories 
